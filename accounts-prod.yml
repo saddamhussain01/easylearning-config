@@ -4,8 +4,8 @@ build:
 accounts:
   message: "Welcome to EasyBank accounts related prod APIs "
   contactDetails:
-    name: "Reine Aishwarya - Product Owner"
-    email: "aishwarya@eazybank.com"
+    name: "Saddam hussain - Product Owner"
+    email: "saddam@gmail.com"
   onCallSupport:
     - (453) 392-4829
     - (236) 203-0384
